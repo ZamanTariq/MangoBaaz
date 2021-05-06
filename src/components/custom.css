@@ -1,0 +1,53 @@
+/* header css starts here */
+
+.bg-nav {
+    background-color: #c1d25a;
+}
+
+
+/* header css ends here */
+
+
+/* main body css starts here */
+
+.reload-icon {
+    width: 36px;
+}
+
+.main-heading {
+    font-family: poppins;
+    padding: 32px;
+    font-size: 25px;
+}
+
+.btn-set {
+    justify-content: center;
+    padding: 36px
+}
+
+.btn-copy {
+    margin-right: 35px;
+}
+
+
+/* main body css ends here */
+
+
+/* footer css start here */
+
+.ft-bg {
+    background-color: #232F3E;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+}
+
+.copy {
+    text-decoration: none;
+    color: green;
+}
+
+
+/* footer css ends here */
